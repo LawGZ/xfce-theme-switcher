@@ -87,9 +87,9 @@ rm -rf ~/.local/share/xfce-theme-switcher ~/.config/xfce4 ~/.cache/sessions/xfce
 
 ---
 
-## 👨 ⁇ 💻 Maker
+## 💻 Maker
 
-**Author:** [lawiis](https://github.com/<username>)  
+**Author:** [lawiis](https://github.com/LawGZ)  
 🧩 Script created with ❤️ for XFCE users who like a clean & light display.
 
 ---
