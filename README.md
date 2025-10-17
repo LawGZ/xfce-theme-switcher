@@ -33,7 +33,7 @@ Equipped with an automatic **log** system, you can see theme change history easi
 
 2. This clone repository:
    ```bash
-   git clone https://github.com/<username>/xfce-theme-switcher.git
+   git clone https://github.com/LawGZ/xfce-theme-switcher.git
    cd xfce-theme-switcher
    ```
 
